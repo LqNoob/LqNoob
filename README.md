@@ -1,6 +1,11 @@
 ## Hi there 👋
 
-Welcome to my GitHub. If you have any questions about my projects, please feel free to [send me an email]().
+Welcome to my GitHub. If you have any questions about my projects, please feel free to send me an email.
+
+<p align="center"> 
+  <i>"Let life be beautiful like summer flowers And Death like autumn leaves."</i>
+</p>
+<p align="right"><i>Rabindranath Tagore</i></p>
 
 <!--
 **LqNoob/LqNoob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
