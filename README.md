@@ -5,9 +5,10 @@
 </p>
 <p align="right"><i>Rabindranath Tagore</i></p>
 
+<!--
 Welcome to my GitHub. If you have any questions about my projects, please feel free to send me an email.
 
-<!--
+
 **LqNoob/LqNoob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
